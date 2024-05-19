@@ -1,2 +1,1 @@
 require("pgsz")
-print("hello")
