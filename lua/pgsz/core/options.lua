@@ -30,4 +30,11 @@ opt.backspace = "indent,eol,start"
 opt.splitright = true
 opt.splitbelow = true
 
+opt.mouse = ""
+
+opt.colorcolumn = "80"
+
+opt.foldmethod = "marker"
+
+opt.scrolloff = 8
 
